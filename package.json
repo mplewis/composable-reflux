@@ -1,0 +1,22 @@
+{
+  "name": "composable-reflux",
+  "version": "0.0.0",
+  "description": "Compose Reflux stores from testable, segmented features",
+  "main": "src/index.jsx",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb": "16.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "poi": "^9.6.12",
+    "poi-preset-react": "^9.2.1"
+  },
+  "dependencies": {
+    "react": "^15",
+    "react-dom": "^15",
+    "reflux": "^6.4.1"
+  }
+}
